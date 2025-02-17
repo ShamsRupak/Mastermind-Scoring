@@ -1,1 +1,2 @@
 # Mastermind-Scoring
+Write a Python function that takes as input a code and a guess and outputs a score. Code and guess inputs take the form of strings of four characters. Each character will be one of : r, b, g, y, w, or p (standing for red, blue, green, yellow, white, or purple). The score output should similarly be a string of four characters, using 'b' for black pegs (indicating the right color in the right place), 'w' for white pegs, and 'e' for empty slots.
